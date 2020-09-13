@@ -102,7 +102,7 @@ public class CalC extends Applet
                     else
                     {
                         flag++;
-                        c=Character.getNumericValue(ch);
+                        c=(c*10)+(Character.getNumericValue(ch));
                     }
                 }
                 if(flag!=0)
@@ -138,7 +138,7 @@ public class CalC extends Applet
                     else
                     {
                         flag++;
-                        c=Character.getNumericValue(ch);
+                        c=(c*10)+(Character.getNumericValue(ch));
                     }
                 }
                 if(flag!=0)
@@ -174,7 +174,7 @@ public class CalC extends Applet
                     else
                     {
                         flag++;
-                        c=Character.getNumericValue(ch);
+                        c=(c*10)+(Character.getNumericValue(ch));
                     }
                 }
                 if(flag!=0)
@@ -210,7 +210,7 @@ public class CalC extends Applet
                     else
                     {
                         flag++;
-                        c=Character.getNumericValue(ch);
+                        c=(c*10)+(Character.getNumericValue(ch));
                     }
                 }
                 if(flag!=0)
