@@ -38,3 +38,5 @@
 #### tan (Tangent) Function
 * Enter the Angle in Degrees
 * Press tan
+#### C (Clear) Function
+* Press Clear Button to delete everything present in the Textbox area
