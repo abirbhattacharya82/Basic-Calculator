@@ -238,7 +238,11 @@ public class CalC extends Applet
 				t.setText(t.getText()+"M");
 			else if(x.equalsIgnoreCase("sin"))
 			{
-				//Code for Sin function
+				String s=t.getText();
+				double c=Double.parseDouble(s);
+				c=Math.toRadians(c);
+				c=Math.sin(c);
+				t.setText(""+c);
 			}
 			else if(x.equalsIgnoreCase("cos"))
 			{
