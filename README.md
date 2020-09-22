@@ -4,6 +4,8 @@
 * Works across all Windows Operating System.
 ## Manual
 ### How the Calculator Button Works.
+#### Del (Delete) Function
+* To clear the last entered digit or function press Del
 #### / (Divide) Function
 * Enter the Dividend  
 * Enter the Divide Sign
