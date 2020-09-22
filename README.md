@@ -55,3 +55,6 @@
 * Press tan
 #### C (Clear) Function
 * Press Clear Button to delete everything present in the Textbox area
+## Contributor
+* Abir Bhattacharya
+* Rijita Bose
