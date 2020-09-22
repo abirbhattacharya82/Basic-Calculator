@@ -56,5 +56,9 @@
 #### C (Clear) Function
 * Press Clear Button to delete everything present in the Textbox area
 ## Contributor
-* Abir Bhattacharya
-* Rijita Bose
+* https://github.com/abirbhattacharya82https://github.com/abirbhattacharya82
+* https://github.com/SOH69
+* https://github.com/r099
+## Owner
+* https://github.com/abirbhattacharya82https://github.com/abirbhattacharya82
+### We made this using JAVA and HTML.. If you find it helpfull do drop a Star
