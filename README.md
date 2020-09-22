@@ -55,6 +55,8 @@
 * Press tan
 #### C (Clear) Function
 * Press Clear Button to delete everything present in the Textbox area
+## Preview:
+![](Untitled.png)
 ## Contributor:
 * ![Abir Bhattacharya](https://github.com/abirbhattacharya82)
 * [Soham Gon](https://github.com/SOH69)
