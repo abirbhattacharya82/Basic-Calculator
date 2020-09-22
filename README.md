@@ -60,5 +60,5 @@
 * [Soham Gon](https://github.com/SOH69)
 * [Rijita Bose](https://github.com/r099)
 ## Owner
-* https://github.com/abirbhattacharya82
+* [Abir Bhattacharya](https://github.com/abirbhattacharya82)
 ### We made this using JAVA and HTML.. If you find it helpfull do drop a Star
