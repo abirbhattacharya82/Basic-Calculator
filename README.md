@@ -9,7 +9,7 @@
 * Enter the Divide Sign
 * Enter the Divisor
 * Press =
-#### X (Multiple) Funtion
+#### X (Multiply) Funtion
 * Enter the Multiplicand
 * Enter the Multiplication Sign
 * Enter the Multiplier
@@ -29,6 +29,19 @@
 * Enter the Mid Sign
 * Enter the Lower Limit
 * Press =
+#### Mod (Modulus) Function
+* Enter the Dividend
+* Press the Mod function
+* Enter the Divisor
+#### xA<sup>2</sup> (Square) Function
+* Enter the Number whose Square you want to find
+* Press xA<sup>2</sup> button
+#### Vx (Square Root) Function
+* Enter the Numbber whose Square Root you want to find
+* Press Vx button
+#### ln (Natural Log) Function
+* Enter the number whose Natural Log you want to find
+* Press ln button
 #### sin (Sine) Function
 * Enter the Angle in Degrees
 * Press sin
