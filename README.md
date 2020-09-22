@@ -60,5 +60,5 @@
 * https://github.com/SOH69
 * https://github.com/r099
 ## Owner
-* https://github.com/abirbhattacharya82https://github.com/abirbhattacharya82
+* https://github.com/abirbhattacharya82
 ### We made this using JAVA and HTML.. If you find it helpfull do drop a Star
