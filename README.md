@@ -56,7 +56,7 @@
 #### C (Clear) Function
 * Press Clear Button to delete everything present in the Textbox area
 ## Contributor
-* https://github.com/abirbhattacharya82https://github.com/abirbhattacharya82
+* https://github.com/abirbhattacharya82
 * https://github.com/SOH69
 * https://github.com/r099
 ## Owner
