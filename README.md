@@ -2,7 +2,7 @@
 ##  Requirements:
 * JAVA 1.8
 * Works across all Windows Operating System.
-## Manual
+## Manual:
 ### How the Calculator Button Works.
 #### Del (Delete) Function
 * To clear the last entered digit or function press Del
@@ -55,10 +55,10 @@
 * Press tan
 #### C (Clear) Function
 * Press Clear Button to delete everything present in the Textbox area
-## Contributor
-* [Abir Bhattacharya](https://github.com/abirbhattacharya82)
+## Contributor:
+* ![Abir Bhattacharya](https://github.com/abirbhattacharya82)
 * [Soham Gon](https://github.com/SOH69)
 * [Rijita Bose](https://github.com/r099)
-## Owner
+## Owner:
 * [Abir Bhattacharya](https://github.com/abirbhattacharya82)
 ### We made this using JAVA and HTML.. If you find it helpfull do drop a ☆
