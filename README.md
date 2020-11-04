@@ -12,4 +12,6 @@
 * [Rijita Bose](https://github.com/r099)
 ## Owner:
 * [Abir Bhattacharya](https://github.com/abirbhattacharya82)
+## Incase you are Stuck and unable to make a Pull Request
+* [How to Contribute](how_to_contribute.md)
 ### We made this using JAVA and HTML.. If you find it helpfull do drop a ☆
