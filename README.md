@@ -23,6 +23,6 @@
 * New to GiHub?
   * [Intro to GitHub](https://youtu.be/wTTek8P2VB4)
   * [How to Create a Repository](https://youtu.be/o6T5F7-SOAo)
-  * [Cloning a Repository](https://www.youtube.com/watch?v=L2_XikMM0nI)
+  * [Cloning a Repository](https://youtu.be/oYselL5G280)
   * [Contributing to a Project](https://www.youtube.com/watch?v=b-hGpPrVcus)
 ### We made this using JAVA and HTML.. If you find it helpfull do drop a ☆
