@@ -24,5 +24,5 @@
   * [Intro to GitHub](https://youtu.be/wTTek8P2VB4)
   * [How to Create a Repository](https://youtu.be/o6T5F7-SOAo)
   * [Cloning a Repository](https://youtu.be/oYselL5G280)
-  * [Contributing to a Project](https://www.youtube.com/watch?v=b-hGpPrVcus)
+  * [Contributing to a Project](https://youtu.be/4vq07q7g2xE)
 ### We made this using JAVA and HTML.. If you find it helpfull do drop a ☆
